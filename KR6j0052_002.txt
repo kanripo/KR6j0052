@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:39.762635
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:06
 #+TITLE: 佛說祕密相經
 #+PROPERTY: CBETA_ID T18n0884
 #+PROPERTY: ID KR6j0052
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 884
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0052_T_002-0465a> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 佛說祕密相經卷中¶
+佛說祕密相經卷中¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫沙門臣施護等¶
@@ -131,9 +130,9 @@
 「　快哉一切正覺尊
 　三摩地智無有上¶
 　所有一切諸眾生
-　由斯二法得成佛
+　由斯二法得成佛」
 #+END_VERSE
-」¶
+¶
 
 金剛手菩薩摩訶薩作是讚已。復白佛言世¶
 尊最初開目行相云何。¶
@@ -191,9 +190,9 @@
 　授汝金剛杵
 　善作諸成就¶
 　而彼諸如來
-　由此得成佛
+　由此得成佛」
 #+END_VERSE
-」¶
+¶
 
 復授大明曰。¶
 
@@ -230,9 +229,9 @@
 「　汝常持此金剛杵
 　即金剛手堅固戒¶
 　金剛薩埵勝修中
-　一切由斯得成佛
+　一切由斯得成佛」
 #+END_VERSE
-」¶
+¶
 
 復次大明曰。¶
 
